@@ -1,0 +1,1 @@
+"""FunPay Medik Telegram bot."""
